@@ -54,13 +54,13 @@ Universidade do Estado da Bahia, UNEB, Brasil.
 #### GetInfo Soluções Corporativas [2016 - hoje]
 
 **Desenvolvedor Front-End Pleno**
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commo
+Trabalhou na construção de aplicações web dinâmicas em arquiteturas MVC e MVVM client-side utilizando JavaScript e frameworks como AngularJS, Cordova e Ionic. Além de experiencia com aplicações web em tempo real com Firebase.
 
 -----
 
 #### Bolt Agência Criativa [2015 - 2016]
 **Desenvolvedor Full-Stack Pleno**
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commo
+Desenvolveu aplicações web responsivas utilizando web moderna (HTML5 e CSS3), aplicações client-side com JavaScript, servicos com PHP com base em Laravel 5.
 
 -----
 
@@ -69,6 +69,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 **Full Stack Developer**
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commo
 
+-----
 
 #### Colégio Heraclides Martins de Andrade [2013]
 **Professor**
