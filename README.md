@@ -91,8 +91,9 @@ Literalmente um faz tudo, porém com foco em front-end, mais especificamente vis
 Sim, já fui professor. Atuava nas disciplinas Técnica e Lógica de Programação em turmas de ensino médio nível técnico e na disciplina de Matemática em turmas do ensino fundamental, ambas como professor contratado substituto.
 
 
-
+##Extras
 ---------------
+
 
 Ah, por último mas não menos importante eu gosto muuuuito de música, ouço o tempo todo então... <br>
 [**Eu no Spotify**](https://open.spotify.com/user/eduborges), vai que meu gosto musical é importante né :P <br>
