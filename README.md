@@ -32,40 +32,37 @@ Ah, markdown é um amorzinho <i class="icon-heart"></i>
 
 ------------------------
 
-Formação
+##Formação
 
 ###Cursos acadêmicos
 
 **2015 - Hoje (5 períodos)**
 
-: Graduação em andamento em Sistemas de Informação. 
-Universidade Federal de Sergipe, UFS, Brasil.
+Graduação em andamento em Sistemas de Informação. <br>
+Universidade Federal de Sergipe, UFS, Brasil.<br>
 
 
 **2013 - 2015 (4 periodos)**
 
-: Graduação interrompida em 2015 em Redes de Computadores. 
-Faculdade Dom Luis de Orleans e Bragança, FARRP, Brasil. 
+Graduação interrompida em 2015 em Redes de Computadores. <br>
+Faculdade Dom Luis de Orleans e Bragança, FARRP, Brasil. <br>
 Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil. 
 
 ---------------
 
 ### Formações Complementares
 
-**2010 - 2010**
-
-: Windows Server 2008. (Carga horária: 30h). 
-Microsoft Students to Business, BA, Brazil.
-
 **2008 - 2008**
-: Redação e produções textuais. (Carga horária: 60h). 
+Redação e produções textuais. (Carga horária: 60h).<br>
 Universidade do Estado da Bahia, UNEB, Brasil.
+
+*relevante só isso mesmo :P*
 
 -----------
 
-### Atuação Profissional
+## Atuação Profissional
 
-#### GetInfo Soluções Corporativas [2016 - hoje]
+### GetInfo Soluções Corporativas [2016 - hoje]
 
 **Desenvolvedor Front-End Pleno**
 
@@ -73,14 +70,14 @@ Trabalhou na construção de aplicações web dinâmicas em arquiteturas MVC e M
 
 =============
 
-#### Bolt Agência Criativa [2015 - 2016]
+### Bolt Agência Criativa [2015 - 2016]
 **Desenvolvedor Full-Stack Pleno**
 
 Desenvolvi aplicações web responsivas utilizando web moderna (HTML5 e CSS3), aplicações client-side com JavaScript, serviços com PHP com base em Laravel 5, geralmente com back-end mais completos.
 
 =============
 
-#### Freelancer Developer [2010 - 2015]
+### Freelancer Developer [2010 - 2015]
 
 **Full Stack Developer**
 
@@ -88,7 +85,7 @@ Literalmente um faz tudo, porém com foco em front-end, mais especificamente vis
 
 =============
 
-#### Colégio Heraclides Martins de Andrade [2013]
+### Colégio Heraclides Martins de Andrade [2013]
 **Professor**
 
 Sim, já fui professor. Atuava nas disciplinas Técnica e Lógica de Programação em turmas de ensino médio nível técnico e na disciplina de Matemática em turmas do ensino fundamental, ambas como professor contratado substituto.
@@ -96,6 +93,3 @@ Sim, já fui professor. Atuava nas disciplinas Técnica e Lógica de Programaç�
 
 
 ---------------
-
-[TOC]
-
