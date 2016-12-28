@@ -93,3 +93,12 @@ Sim, já fui professor. Atuava nas disciplinas Técnica e Lógica de Programaç�
 
 
 ---------------
+
+Ah, por último mas não menos importante eu gosto muuuuito de música, ouço o tempo todo então... <br>
+[**Eu no Spotify**](https://open.spotify.com/user/eduborges), vai que meu gosto musical é importante né :P <br>
+[**Eu no Facebook**](https://www.facebook.com/euduardoborges), futuca minha vida mesmo, só tem memes. <br>
+[**Eu no Linkedin**](https://www.linkedin.com/in/oeduardoborges), não sei se alguem usa isso de fato, mas tá ai.
+
+-------
+
+Duvidas, sugestões ou qualquer coisa? **Deixa nas issues**, juro que venho correndo responder.
