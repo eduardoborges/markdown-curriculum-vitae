@@ -1,13 +1,11 @@
-Eduardo Santana Borges
-===================
-
+#Eduardo Santana Borges
 
 Experiente em análise e desenvolvimento de software da fase de projeção até pós implantação. Graduando em Sistemas de Informação pela Universidade Federal de Sergipe. Manifesto interesse pela área de Ciências Exatas e da Terra, com ênfase em engenharia de software e web apps progressivos. Especialidade em JavaScript (ECMAScript 5) e frameworks MVC e MVVM, AngularJS, programação orientada a objetos, frameworks PHP, e web moderna.
 
 ----------
 
-Um pequeno "sobre mim"
--------------
+##Um pequeno "sobre mim"
+
 
 Tá, não é tão pequenos assim, mas vale a pena ler.
 
@@ -32,9 +30,9 @@ Continue vendo minhas formações acadêmicas e loucuras/experiências que tive.
 
 Ah, markdown é um amorzinho <i class="icon-heart"></i>
 
-----------
+------------------------
+
 Formação
--------------
 
 ###Cursos acadêmicos
 
@@ -50,6 +48,8 @@ Universidade Federal de Sergipe, UFS, Brasil.
 Faculdade Dom Luis de Orleans e Bragança, FARRP, Brasil. 
 Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil. 
 
+---------------
+
 ### Formações Complementares
 
 **2010 - 2010**
@@ -61,6 +61,8 @@ Microsoft Students to Business, BA, Brazil.
 : Redação e produções textuais. (Carga horária: 60h). 
 Universidade do Estado da Bahia, UNEB, Brasil.
 
+-----------
+
 ### Atuação Profissional
 
 #### GetInfo Soluções Corporativas [2016 - hoje]
@@ -69,14 +71,14 @@ Universidade do Estado da Bahia, UNEB, Brasil.
 
 Trabalhou na construção de aplicações web dinâmicas em arquiteturas MVC e MVVM client-side utilizando JavaScript e framework AngularJS. Além de experiencia com aplicações web em tempo real com Firebase.
 
------
+=============
 
 #### Bolt Agência Criativa [2015 - 2016]
 **Desenvolvedor Full-Stack Pleno**
 
 Desenvolvi aplicações web responsivas utilizando web moderna (HTML5 e CSS3), aplicações client-side com JavaScript, serviços com PHP com base em Laravel 5, geralmente com back-end mais completos.
 
------
+=============
 
 #### Freelancer Developer [2010 - 2015]
 
@@ -84,7 +86,7 @@ Desenvolvi aplicações web responsivas utilizando web moderna (HTML5 e CSS3), a
 
 Literalmente um faz tudo, porém com foco em front-end, mais especificamente visual e muito pouco de funcionalidade. Marcação e estilização de páginas web, e quase sempre um back-end relativamente simples.
 
------
+=============
 
 #### Colégio Heraclides Martins de Andrade [2013]
 **Professor**
