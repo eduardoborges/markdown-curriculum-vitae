@@ -20,7 +20,7 @@ Como disse, sou evangelista de **Polymer** e acredito muito no potencial desse n
 ![Apresentando o tão famigerado Polymer no Google IO Extended Aracaju](https://lh3.googleusercontent.com/x1_lskWUFWyYVGf_jd_Toz9s4CRttLjZYZPJPB9y7acVlRZ8uB8IiCnXenmsnmtz_-H2zACGsj0GTCE=w2560-h1080-rw-no)
 *Apresentando o tão famigerado Polymer no Google IO Extended Aracaju quando ainda estava em DevPreview 0.5, rolou descoberta de bug e tudo mais.*
 
-Tenho experiência com PHP desde 2010, mas PHP de macho, desenvolvi um framework MVC com um amigo para projetos (edit: em breve open-source, yeah!) e depois de muito tempo que aderi a padrões de comunidade e comecei a utilizar frameworks, o que mais gostei foi o [Laravel](http://laravel.com) e utilizo sempre que posso em meus projetos. Mas a experiência com PHP "puro" foi muito boa para adquirir conhecimento, que me ajudou a entender muitos conceitos na marra.
+Tenho experiência com PHP desde 2010, desenvolvi um framework MVC com um amigo para projetos (edit: em breve open-source, yeah!) e depois de muito tempo que aderi a padrões de comunidade e comecei a utilizar frameworks, o que mais gostei foi o [Laravel](http://laravel.com) e utilizo sempre que posso em meus projetos. Mas a experiência com PHP "puro" foi muito boa para adquirir conhecimento, que me ajudou a entender muitos conceitos na marra.
 
 Algumas coisas tive apenas um contato inicial, como Java, Python e C para finalidades acadẽmicas, principalmente Java, mas nem de longe domino. Mas em algumas coisas não sou bom mas me viro muito bem, como ES7 (ECMAScript 6), TypeScript (Java pra web :P) e Magento e-commerce, por ter alguns contatos rápidos em alguns projetos.
 
