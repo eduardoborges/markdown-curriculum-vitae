@@ -38,23 +38,26 @@ Formação
 
 ###Cursos acadêmicos
 
-2015 - Hoje (5 períodos)
+**2015 - Hoje (5 períodos)**
+
 : Graduação em andamento em Sistemas de Informação. 
 Universidade Federal de Sergipe, UFS, Brasil.
 
 
-2013 - 2015 (4 periodos)
+**2013 - 2015 (4 periodos)**
+
 : Graduação interrompida em 2015 em Redes de Computadores. 
 Faculdade Dom Luis de Orleans e Bragança, FARRP, Brasil. 
 Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil. 
 
 ### Formações Complementares
 
-2010 - 2010
+**2010 - 2010**
+
 : Windows Server 2008. (Carga horária: 30h). 
 Microsoft Students to Business, BA, Brazil.
 
-2008 - 2008
+**2008 - 2008**
 : Redação e produções textuais. (Carga horária: 60h). 
 Universidade do Estado da Bahia, UNEB, Brasil.
 
@@ -63,12 +66,14 @@ Universidade do Estado da Bahia, UNEB, Brasil.
 #### GetInfo Soluções Corporativas [2016 - hoje]
 
 **Desenvolvedor Front-End Pleno**
+
 Trabalhou na construção de aplicações web dinâmicas em arquiteturas MVC e MVVM client-side utilizando JavaScript e framework AngularJS. Além de experiencia com aplicações web em tempo real com Firebase.
 
 -----
 
 #### Bolt Agência Criativa [2015 - 2016]
 **Desenvolvedor Full-Stack Pleno**
+
 Desenvolvi aplicações web responsivas utilizando web moderna (HTML5 e CSS3), aplicações client-side com JavaScript, serviços com PHP com base em Laravel 5, geralmente com back-end mais completos.
 
 -----
@@ -76,12 +81,14 @@ Desenvolvi aplicações web responsivas utilizando web moderna (HTML5 e CSS3), a
 #### Freelancer Developer [2010 - 2015]
 
 **Full Stack Developer**
+
 Literalmente um faz tudo, porém com foco em front-end, mais especificamente visual e muito pouco de funcionalidade. Marcação e estilização de páginas web, e quase sempre um back-end relativamente simples.
 
 -----
 
 #### Colégio Heraclides Martins de Andrade [2013]
 **Professor**
+
 Sim, já fui professor. Atuava nas disciplinas Técnica e Lógica de Programação em turmas de ensino médio nível técnico e na disciplina de Matemática em turmas do ensino fundamental, ambas como professor contratado substituto.
 
 
