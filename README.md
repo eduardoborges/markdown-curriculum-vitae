@@ -11,16 +11,16 @@ Tá, não é tão pequenos assim, mas vale a pena ler.
 
 *JavaScript lover <i class="icon-heart"></i>, Angular fanatic, Polymer evangelist, Gulp entusiast.*
 
-Amo JavaScript de todas as formas, desde [embarcado](https://github.com/rwaldron/johnny-five) passando pelo JavaScript moderno até o bom e velho JS puro. Certas coisas gosto muito de utilizar e me dou muito bem, AngularJS é um grande exemplo, principalmente depois da versão 1.5 onde foi implementado o conceito de **WebComponents** e utilizo como padrão desde então. 
+Amo JavaScript de todas as formas, desde [embarcado](https://github.com/rwaldron/johnny-five) passando pelo JavaScript moderno até o bom e velho JS puro. Certas coisas gosto muito de utilizar e me dou muito bem, AngularJS é um grande exemplo, principalmente depois da versão 1.5 onde foi implementado o conceito de **WebComponents** e utilizo sempre desde então. 
 
 Gosto muito de web design responsivo e CSS. Utilizo Sass como pré-processador há quase 2 anos, e não largo dele hehe. Gosto muito de grids *(grids hoje, grids amanhã, grids sempre)* e no fundo no fundo, é o que mais sei fazer: *assar* sites criativos e responsivos.
 
-Como disse, sou evangelista de **Polymer** e acredito muito no potencial desse negócio, foi com ele que conheci o meu outra lado da laranja, os web components tão amados, e me manter nessa por um booom tempo. 
+Como disse, sou evangelista de **Polymer** e acredito muito no potencial desse negócio, foi com ele que conheci o meu outro lado da laranja: os web components tão amados. Vou me manter nessa por um booom tempo. 
 
 ![Apresentando o tão famigerado Polymer no Google IO Extended Aracaju](https://lh3.googleusercontent.com/x1_lskWUFWyYVGf_jd_Toz9s4CRttLjZYZPJPB9y7acVlRZ8uB8IiCnXenmsnmtz_-H2zACGsj0GTCE=w2560-h1080-rw-no)
 *Apresentando o tão famigerado Polymer no Google IO Extended Aracaju quando ainda estava em DevPreview 0.5, rolou descoberta de bug e tudo mais.*
 
-Tenho experiência com PHP desde 2010, desenvolvi um framework MVC com um amigo para projetos (edit: em breve open-source, yeah!) e depois de muito tempo que aderi a padrões de comunidade e comecei a utilizar frameworks, o que mais gostei foi o [Laravel](http://laravel.com) e utilizo sempre que posso em meus projetos. Mas a experiência com PHP "puro" foi muito boa para adquirir conhecimento, que me ajudou a entender muitos conceitos na marra.
+Tenho experiência com PHP desde 2010, desenvolvi um framework MVC com um amigo para projetos (edit: em breve open-source, yeah!) e depois de muito tempo que aderi a padrões de comunidade e comecei a utilizar frameworks, o que mais gostei foi o [Laravel](http://laravel.com) e utilizo sempre que posso em meus projetos. Mas a experiência com PHP "puro" foi muito boa para adquirir conhecimento, que me ajudou a entender muitos conceitos na *marra*.
 
 Algumas coisas tive apenas um contato inicial, como Java, Python e C para finalidades acadẽmicas, principalmente Java, mas nem de longe domino. Mas em algumas coisas não sou bom mas me viro muito bem, como ES7 (ECMAScript 6), TypeScript (Java pra web :P) e Magento e-commerce, por ter alguns contatos rápidos em alguns projetos.
 
@@ -53,6 +53,7 @@ Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico,
 ### Formações Complementares
 
 **2008 - 2008**
+
 Redação e produções textuais. (Carga horária: 60h).<br>
 Universidade do Estado da Bahia, UNEB, Brasil.
 
