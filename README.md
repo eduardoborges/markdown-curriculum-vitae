@@ -7,9 +7,9 @@ Experiente em análise e desenvolvimento de software da fase de projeção até 
 ##Um pequeno "sobre mim"
 
 
-Tá, não é tão pequenos assim, mas vale a pena ler.
+Tá, não é tão pequeno assim, mas vale a pena ler.
 
-*JavaScript lover <i class="icon-heart"></i>, Angular fanatic, Polymer evangelist, Gulp entusiast.*
+*JavaScript lover<i class="icon-heart"></i>, Angular fanatic, Polymer evangelist, Gulp entusiast.*
 
 Amo JavaScript de todas as formas, desde [embarcado](https://github.com/rwaldron/johnny-five) passando pelo JavaScript moderno até o bom e velho JS puro. Certas coisas gosto muito de utilizar e me dou muito bem, AngularJS é um grande exemplo, principalmente depois da versão 1.5 onde foi implementado o conceito de **WebComponents** e utilizo sempre desde então. 
 
