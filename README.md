@@ -6,8 +6,9 @@ Experiente em análise e desenvolvimento de software da fase de projeção até 
 
 ##Um pequeno "sobre mim"
 
+Tá, não é tão pequeno assim, mas vale a pena ler. 
 
-Tá, não é tão pequeno assim, mas vale a pena ler.
+Ah, pra falar comigo só mandar um *oi* para: [**meu email mágico**](mailto:eduardo.borges@dcomp.ufs.br) <br>
 
 *JavaScript lover<i class="icon-heart"></i>, Angular fanatic, Polymer evangelist, Gulp entusiast.*
 
@@ -102,4 +103,5 @@ Ah, por último mas não menos importante eu gosto muuuuito de música, ouço o 
 
 -------
 
-Duvidas, sugestões ou qualquer coisa? **Deixa nas issues**, juro que venho correndo responder.
+Duvidas, sugestões ou qualquer coisa? **Deixa nas issues**, juro que venho correndo responder. <br>
+Ah, pra falar comigo só mandar um *oi* para: [**meu email mágico**](mailto:eduardo.borges@dcomp.ufs.br) <br>
