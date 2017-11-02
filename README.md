@@ -21,9 +21,13 @@ Gosto muito de web design responsivo e CSS. Utilizo Sass como pré-processador h
 Como disse, sou evangelista de **Polymer** (e agora do React) e acredito muito no potencial desse negócio, foi com ele que conheci o meu outro lado da laranja: os web components tão amados. Vou me manter nessa por um booom tempo. 
 
 ![Apresentando o tão famigerado Polymer no Google IO Extended Aracaju](https://lh3.googleusercontent.com/x1_lskWUFWyYVGf_jd_Toz9s4CRttLjZYZPJPB9y7acVlRZ8uB8IiCnXenmsnmtz_-H2zACGsj0GTCE=w2560-h1080-rw-no)
-*Apresentando o tão famigerado Polymer no Google IO Extended Aracaju quando ainda estava em DevPreview 0.5, rolou descoberta de bug e tudo mais.*
+*Apresentando o tão famigerado Polymer no Google IO Extended 2015 Aracaju quando ainda estava em DevPreview 0.5, rolou descoberta de bug e tudo mais.*
 
 Tenho experiência com PHP desde 2010, desenvolvi um framework MVC com um amigo para projetos (edit: em breve open-source, yeah!) e depois de muito tempo que aderi a padrões de comunidade e comecei a utilizar frameworks, o que mais gostei foi o [Laravel](http://laravel.com) e utilizo sempre que posso em meus projetos. Mas a experiência com PHP "puro" foi muito boa para adquirir conhecimento, que me ajudou a entender muitos conceitos na *marra*.
+
+![Imgur](https://i.imgur.com/DDQY5MS.jpg)
+
+*Eu tambem evangelizo a palabra do React pela humanidade*
 
 Algumas coisas tive apenas um contato inicial, como Java, Python e C para finalidades acadẽmicas, principalmente Java, mas nem de longe domino. Mas em algumas meu foco real é no JavaScript mesmo.
 
