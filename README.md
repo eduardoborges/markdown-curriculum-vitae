@@ -6,24 +6,26 @@ Experiente em análise e desenvolvimento de software da fase de projeção até 
 
 ## Um pequeno "sobre mim"
 
+*Developer • js lover • react & polymer evangelist • indie music & Battlefield fan*
+
 Tá, não é tão pequeno assim, mas vale a pena ler. 
 
 Ah, pra falar comigo só mandar um *oi* para: [**meu email mágico**](mailto:eduardo.borges@dcomp.ufs.br) <br>
 
-*JavaScript lover<i class="icon-heart"></i>, Angular fanatic, Polymer evangelist, Gulp entusiast.*
+Amo JavaScript de todas as formas, desde [embarcado](https://github.com/rwaldron/johnny-five) passando pelo JavaScript moderno até o bom e velho JS puro. Certas coisas gosto muito de utilizar e me dou muito bem, AngularJS é um grande exemplo, principalmente depois da versão 1.5 onde foi implementado o conceito de **WebComponents** e utilizo sempre desde então.
 
-Amo JavaScript de todas as formas, desde [embarcado](https://github.com/rwaldron/johnny-five) passando pelo JavaScript moderno até o bom e velho JS puro. Certas coisas gosto muito de utilizar e me dou muito bem, AngularJS é um grande exemplo, principalmente depois da versão 1.5 onde foi implementado o conceito de **WebComponents** e utilizo sempre desde então. 
+Porém como nem tudo são flores o Angular me decepcionou após 4 anos bebendo de sua agua, e procurei alternativas. Como já era bem engajado em webcomponents eu meti as caras no React há certa de 1 ano e meio e to me especializando nele desde então.
 
-Gosto muito de web design responsivo e CSS. Utilizo Sass como pré-processador há quase 2 anos, e não largo dele hehe. Gosto muito de grids *(grids hoje, grids amanhã, grids sempre)* e no fundo no fundo, é o que mais sei fazer: *assar* sites criativos e responsivos.
+Gosto muito de web design responsivo e CSS. Utilizo Sass como pré-processador há muuuuito tempo, e não largo dele hehe. Gosto muito de grids *(grids hoje, grids amanhã, grids sempre)* e no fundo no fundo, é o que mais sei fazer: *assar* sites criativos e responsivos.
 
-Como disse, sou evangelista de **Polymer** e acredito muito no potencial desse negócio, foi com ele que conheci o meu outro lado da laranja: os web components tão amados. Vou me manter nessa por um booom tempo. 
+Como disse, sou evangelista de **Polymer** (e agora do React) e acredito muito no potencial desse negócio, foi com ele que conheci o meu outro lado da laranja: os web components tão amados. Vou me manter nessa por um booom tempo. 
 
 ![Apresentando o tão famigerado Polymer no Google IO Extended Aracaju](https://lh3.googleusercontent.com/x1_lskWUFWyYVGf_jd_Toz9s4CRttLjZYZPJPB9y7acVlRZ8uB8IiCnXenmsnmtz_-H2zACGsj0GTCE=w2560-h1080-rw-no)
 *Apresentando o tão famigerado Polymer no Google IO Extended Aracaju quando ainda estava em DevPreview 0.5, rolou descoberta de bug e tudo mais.*
 
 Tenho experiência com PHP desde 2010, desenvolvi um framework MVC com um amigo para projetos (edit: em breve open-source, yeah!) e depois de muito tempo que aderi a padrões de comunidade e comecei a utilizar frameworks, o que mais gostei foi o [Laravel](http://laravel.com) e utilizo sempre que posso em meus projetos. Mas a experiência com PHP "puro" foi muito boa para adquirir conhecimento, que me ajudou a entender muitos conceitos na *marra*.
 
-Algumas coisas tive apenas um contato inicial, como Java, Python e C para finalidades acadẽmicas, principalmente Java, mas nem de longe domino. Mas em algumas coisas não sou bom mas me viro muito bem, como ES7 (ECMAScript 6), TypeScript (Java pra web :P) e Magento e-commerce, por ter alguns contatos rápidos em alguns projetos.
+Algumas coisas tive apenas um contato inicial, como Java, Python e C para finalidades acadẽmicas, principalmente Java, mas nem de longe domino. Mas em algumas meu foco real é no JavaScript mesmo.
 
 Bem, é isso. Acima e tudo eu gosto é de aprender coisas novas, eu gosto de saber de tudo um pouco e sempre brincar com frameworks e linguagens que vejo por ai, depois disso, é só loucura. aeuhueh
 
@@ -37,7 +39,7 @@ Ah, markdown é um amorzinho <i class="icon-heart"></i>
 
 ### Cursos acadêmicos
 
-**2015 - Hoje (5 períodos)**
+**2015 - Hoje (6 períodos)**
 
 Graduação em andamento em Sistemas de Informação. <br>
 Universidade Federal de Sergipe, UFS, Brasil.<br>
@@ -68,7 +70,7 @@ Universidade do Estado da Bahia, UNEB, Brasil.
 
 **Desenvolvedor Front-End Pleno**
 
-Trabalhou na construção de aplicações web dinâmicas em arquiteturas MVC e MVVM client-side utilizando JavaScript e framework AngularJS. Além de experiencia com aplicações web em tempo real com Firebase.
+Trabalhou na construção de aplicações web dinâmicas em arquiteturas MVC e MVVM client-side utilizando JavaScript e frameworks/bibliotecas como AngularJS, React, Preact e Polymer. Além de experiencia com aplicações web em tempo real com Firebase.
 
 
 ### Bolt Agência Criativa [2015 - 2016]
@@ -81,7 +83,7 @@ Desenvolvi aplicações web responsivas utilizando web moderna (HTML5 e CSS3), a
 
 **Full Stack Developer**
 
-Literalmente um faz tudo, porém com foco em front-end, mais especificamente visual e muito pouco de funcionalidade. Marcação e estilização de páginas web, e quase sempre um back-end relativamente simples.
+Literalmente um faz tudo, porém com foco em front-end, mais especificamente visual e muito pouco de funcionalidade. Marcação e estilização de páginas web, e quase sempre um back-end relativamente simples (ou não).
 
 
 ### Colégio Heraclides Martins de Andrade [2013]
